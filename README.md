@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdcntanga
-- 👀 I’m interested in cybersecurity and DevOps (DevSecOps)
+- 👀 I’m interested in data, cloud, cybersecurity and DevSecOps.
 - 🌱 I’m currently learning System admin and security
 - 💞️ I’m looking to collaborate on system administration and security tools. Also on where to begin this new learning journey 
 - 📫 How to reach me: ntangampumelelo@gmail.com
